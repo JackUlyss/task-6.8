@@ -1,0 +1,14 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-size:larger;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+	background: rgb(236, 104, 43);
+	width: 357px;
+	margin: 15px 30px;
+	padding: 15px;
+	border-radius: 8px;
+}

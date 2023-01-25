@@ -1,0 +1,25 @@
+body {
+	font-size:larger;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+	background: rgb(236, 104, 43);
+	width: 600px;
+	height: 320px;
+	margin: 15px 30px;
+	border-radius: 8px;
+}
+
+p {
+	padding: 10px 5px 5px 15px;
+	font-weight: 600;
+}
+
+code {
+	margin-left: 15px;
+	padding: 3px 5px 5px 5px;
+	font-family: 'Times New Roman', Times, serif;
+	background: rgb(241, 239, 238);
+	border-radius: 5px;
+}
